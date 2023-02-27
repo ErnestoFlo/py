@@ -1,0 +1,20 @@
+VIDEO MIN : 30:45
+
+INICIAR PROYECTO
+
+python3 ---> version de python
+pip3 --version ---> version de pip
+pip install django ---> instalar django 
+django-admin startproject "nombre del proyecto" ---> inicializar un proyecto
+
+INICIAR SERVIDOR
+
+dir ---> mirar archivos donde estamos en cmd
+cd sistema ---> entrar a la carpeta
+python manage.py runserver ---> correr el servidor con python
+cntr + c ---> terminar proceso
+
+CREACION DE APLICACION (CRUD)
+
+*asegurarse de estar en sistema 
+python manage.py startapp "nombre de app"
